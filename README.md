@@ -1,4 +1,4 @@
-# Hello, I'm Singgay55! 👋
+# Hello, I'm Qamar Facho! 👋
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a passion for **cybersecurity**, **fintech**, **stocks**, and **crypto**. I love using **Python** to build solutions, automate tasks, and explore the fascinating world of secure systems, financial technologies, and investments.
 
